@@ -1,4 +1,4 @@
 key: modxSmarty.template_dir
-value: '{core_path}components/modxsmarty/templates/'
+value: '{base_path}templates/'
 namespace: modxsmarty
 area: site

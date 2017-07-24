@@ -108,14 +108,17 @@ data:
             - widget
 
 packages:
-  modx.com:
-    service_url: http://rest.modx.com/extras/
-    packages:
-      - ace
-      - getpage
-      - formit
-      - translit
-      - pThumb
-      - modxSmarty
-      - migx
-      - clientconfig
+    modx.com:
+        service_url: http://rest.modx.com/extras/
+        packages:
+            - translit
+            - clientconfig
+            - formit
+            - ace
+            - pThumb
+            - modxSmarty
+            - pdoTools
+            - migx
+            - getpage
+            - MinifyX
+
