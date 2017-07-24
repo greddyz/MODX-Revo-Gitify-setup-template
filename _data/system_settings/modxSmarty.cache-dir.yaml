@@ -1,0 +1,4 @@
+key: modxSmarty.cache_dir
+value: '{core_path}cache/modxsmarty/'
+namespace: modxsmarty
+area: site

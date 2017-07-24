@@ -3,6 +3,7 @@
 
 # except do not ignore .gitignore
 !.gitignore
+!/.gitify
 !.htaccess
 
 /vendor/
