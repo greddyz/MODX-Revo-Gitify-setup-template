@@ -4,9 +4,10 @@ MODX Revo Gitify setup template
 ## Quick Installation
 
 ```` shell
-$ git clone git@github.com:greddyz/MODX-Revo-Gitify-setup-template.git
+$ git clone https://github.com/modmore/Gitify.git
 $ composer install
 $ chmod +x Gitify
+$ git clone https://github.com/greddyz/MODX-Revo-Gitify-setup-template.git
 $ gitify modx:install
 $ gitify package:install --all
 $ gitify build
