@@ -1,0 +1,13 @@
+.idea/
+
+config.core.php
+
+/src/
+/vendor/
+
+/Gitify
+/Gitify.cmd
+/composer.json
+/composer.lock
+/application.php
+/CHANGELOG.md
