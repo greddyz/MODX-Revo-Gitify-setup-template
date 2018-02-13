@@ -1,5 +1,0 @@
-key: ace.word_wrap
-value: '1'
-xtype: combo-boolean
-namespace: ace
-area: general

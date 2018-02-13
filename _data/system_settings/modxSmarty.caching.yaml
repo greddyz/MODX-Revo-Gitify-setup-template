@@ -1,5 +1,0 @@
-key: modxSmarty.caching
-value: '0'
-xtype: combo-boolean
-namespace: modxsmarty
-area: site

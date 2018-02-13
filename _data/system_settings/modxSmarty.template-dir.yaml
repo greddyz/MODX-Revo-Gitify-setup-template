@@ -1,4 +1,0 @@
-key: modxSmarty.template_dir
-value: '{base_path}templates/'
-namespace: modxsmarty
-area: site

@@ -119,6 +119,5 @@ packages:
             - modxSmarty
             - pdoTools
             - migx
-            - getpage
             - MinifyX
 
