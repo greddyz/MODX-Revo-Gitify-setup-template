@@ -1,8 +1,13 @@
-# ignore any files beginning with .
-\.*
+.idea/
 
-# except do not ignore .gitignore
-!.gitignore
-!.htaccess
+config.core.php
 
+/src/
 /vendor/
+
+/Gitify
+/Gitify.cmd
+/composer.json
+/composer.lock
+/application.php
+/CHANGELOG.md
